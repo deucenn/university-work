@@ -1,13 +1,3 @@
-/****************************************/
-/* Raphael Bienholz */
-/* Gruppe: Mi08, Leiter: Musterleiter */
-/* Uebungsblatt: 01, Aufgabe: B-1 */
-/* Thema: Informationsgehalt */
-/* Version: 1.0 */
-/* Datum: 19.10.2023 */
-/* Status: lauffaehig */
-/****************************************/
-
 #include <stdio.h>
 int main(void)
 {
