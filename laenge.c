@@ -1,12 +1,3 @@
-/****************************************/
-/* Raphael Bienholz */
-/* Gruppe: Mi08, Leiter: Timon Kybelka */
-/* Uebungsblatt: 03, Aufgabe: B-5 */
-/* Thema: if-Kaskaden */
-/* Version: 1.0 */
-/* Datum: 30.10.2023 */
-/* Status: lauffaehig */
-/****************************************/
 #include<stdio.h>
 int main()
 {
