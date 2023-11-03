@@ -1,12 +1,3 @@
-/****************************************/
-/* Raphael Bienholz */
-/* Gruppe: Mi08, Leiter: Timon Kybelka */
-/* Uebungsblatt: 03, Aufgabe: B-6 */
-/* Thema: Multiplikation */
-/* Version: 1.0 */
-/* Datum: 3.11.2023 */
-/* Status: lauffaehig */
-/****************************************/
 #include<stdio.h>
 int main()
 {
