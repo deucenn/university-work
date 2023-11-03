@@ -1,12 +1,3 @@
-/****************************************/
-/* Raphael Bienholz */
-/* Gruppe: Mi08, Leiter: Timon Kybelka */
-/* Uebungsblatt: 03, Aufgabe: B-4 */
-/* Thema: Rätsel */
-/* Version: 1.0 */
-/* Datum: 30.10.2023 */
-/* Status: lauffaehig */
-/****************************************/
 #include<stdio.h>
 int a = 1, b = 5;  // globale Variablen
 int main()
