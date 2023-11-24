@@ -1,32 +1,3 @@
-/****************************************/
-/* Raphael Bienholz */
-/* Gruppe: Mi08, Leiter: Timon Kybelka */
-/* Uebungsblatt: 03, Aufgabe: B-9 */
-/* Thema: Berechnen von Minimum, Maximum, Mittelwert */
-/* Version: 1.0 */
-/* Datum: 20.11.2023 */
-/* Status: lauffaehig */
-/****************************************/
-
-/*
-a)  if (num < min) {
-            min = num;
-            printf("Neues Minimum: %d\n", min);
-            countMin++;
-        } 
-        if (num > max) {
-            max = num;
-            printf("Neues Maximum: %d\n", max);
-            countMax++;
-        } 
-    int mittel = (min + max) / 2;
-    printf("Minimmum, Mittelwert, Maximum = [ %d, %d, %d ]\n", min, mittel, max);
-    printf("Anzahl der neuen Minima: %d\n", countMin);
-    printf("Anzahl der neuen Maxima: %d\n", countMax);
-
-*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
